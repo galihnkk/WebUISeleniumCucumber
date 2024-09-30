@@ -1,10 +1,9 @@
-package StepDef;
+package stepDef;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-
-import static Helper.Utility.driver;
-import static Helper.Utility.startDriver;
+import static helper.Utility.driver;
+import static helper.Utility.startDriver;
 
 public class Hooks {
 

@@ -1,6 +1,6 @@
-package Page;
+package page;
 
-import static Helper.Utility.driver;
+import static helper.Utility.driver;
 import static org.junit.Assert.assertTrue;
 
 public class ShopCartPage {

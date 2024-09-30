@@ -1,8 +1,8 @@
-package Page;
+package page;
 
 import org.openqa.selenium.By;
 
-import static Helper.Utility.driver;
+import static helper.Utility.driver;
 import static org.junit.Assert.assertEquals;
 
 public class LoginPage {

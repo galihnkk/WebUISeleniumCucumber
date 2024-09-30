@@ -1,8 +1,8 @@
-package StepDef;
+package stepDef;
 
-import Page.HomePage;
-import Page.LoginPage;
-import Page.ShopCartPage;
+import page.HomePage;
+import page.LoginPage;
+import page.ShopCartPage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
